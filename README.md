@@ -10,7 +10,7 @@ Terraform creates and manages resources on cloud platforms and other services th
 
 The basic command of Terraform are. :
 
-- terraform init    --> To initialize terraform in that directory.
+- terraform init    --> To initialize terraform in that working directory.
 - terraform plan    --> To see the plans.
 - terraform fmt     --> To align the format.
 - terraform apply   --> To execute.
